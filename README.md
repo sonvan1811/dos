@@ -1,5 +1,7 @@
 # Install
 
+![alt text](https://github.com/sonvan1811/dos/issues/1#issue-1115683225)
+
 `git clone https://github.com/sonvan1811/dos.git`
 
 `cd dos`
