@@ -4,6 +4,8 @@
 
 `cd dos`
 
+`pip install -r requirements.txt` or `pip3 install -r requirements.txt`  
+
 `python TCP.py` or `python3 TCP.py`
 
 # Warning
